@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: stavki-ot-1-rublya.github.io
+Sitemap: https://stavki-ot-1-rublya.github.io/sitemap.xml
